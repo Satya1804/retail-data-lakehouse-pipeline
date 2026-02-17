@@ -1,4 +1,5 @@
 # retail-data-lakehouse-pipeline
+```
 retail-data-lakehouse-pipeline-folder/
 │
 ├── data/
@@ -54,3 +55,4 @@ retail-data-lakehouse-pipeline-folder/
 └── resources/
     ├── databricks_project.excalidraw
     └── project_architecture.png
+```
